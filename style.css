@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    color: burlywood;
+    font-family: fantasy;
+}
+
+body {
+    background-color: rgb(112, 59, 165);
+}
+
+h2 {
+    color: burlywood;
+    font-family: fantasy;
+    text-decoration: underline
+   
+}
+
+h3 {
+    color: antiquewhite;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    
+    color: burlywood
+}
+
+img{
+    height: 100px;
+}
+
+nav {
+    text-align: end;
+    color: purple;
+    background-color: lavenderblush;
+}
