@@ -1,23 +1,33 @@
-.pic {
-    display: inline-block;
-    height: 120px;
-    border: dotted 12px darkgoldenrod;
-    margin-left: 290px;
+h1 {
+    text-align: center;
+    color: burlywood;
+    font-family: fantasy;
 }
 
 body {
     background-color: rgb(112, 59, 165);
 }
 
-h1 {
-    color: burlywood;
-    text-align: center;
-    font-family: fantasy
-}
-
 h2 {
     color: burlywood;
-    font-family: fantasy
+    font-family: fantasy;
+    text-decoration: underline
+   
+}
+
+h3 {
+    color: antiquewhite;
+    font-size: large;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p {
+    
+    color: burlywood
+}
+
+img{
+    height: 100px;
 }
 
 nav {
@@ -25,12 +35,3 @@ nav {
     color: purple;
     background-color: lavenderblush;
 }
-
-table {
-    color: antiquewhite;
-}
-
-p {
-    color: burlywood;    display: inline-block;
-}
-
