@@ -1,8 +1,9 @@
-.pic {
-    display: inline-block;
+.pic2 {
     height: 120px;
     border: dotted 12px darkgoldenrod;
-    margin-left: 290px;
+    margin-top: 10px;
+    margin-left: 1018px;
+
 }
 
 body {
@@ -16,7 +17,9 @@ h1 {
 }
 
 h2 {
+    text-align: center;
     color: burlywood;
+    font-size: xx-large;
     font-family: fantasy
 }
 
@@ -32,4 +35,10 @@ table {
 
 p {
     color: burlywood;    display: inline-block;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-style: italic;
 }
