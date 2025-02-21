@@ -11,3 +11,4 @@ I've added code each page to open up into one another in separate tabs but no co
 I will continue the progress of this project following the next set of instructions in our next class this week.
 
 Thank you!!
+
