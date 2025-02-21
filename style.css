@@ -1,48 +1,3 @@
-.pic2 {
-    height: 120px;
-    border: dotted 12px darkgoldenrod;
-    margin-top: 10px;
-    margin-left: 1018px;
-
-}
-
-body {
-    background-color: rgb(112, 59, 165);
-}
-
-h1 {
-    color: burlywood;
-    text-align: center;
-    font-family: fantasy
-}
-
-h2 {
-    text-align: center;
-    color: burlywood;
-    font-size: xx-large;
-    font-family: fantasy
-}
-
-nav {
-    text-align: end;
-    color: purple;
-    background-color: lavenderblush;
-}
-
-table {
-    color: antiquewhite;
-}
-
-p {
-    color: burlywood;    display: inline-block;
-}
-
-h3 {
-    color: white;
-    text-align: center;
-    font-style: italic;
-}
-
 .pic {
     display: inline-block;
     height: 120px;
@@ -86,4 +41,48 @@ p {
 
 .name {
     margin-left: 10px;
+}
+.pic2 {
+    height: 120px;
+    border: dotted 12px darkgoldenrod;
+    margin-top: 10px;
+    margin-left: 1018px;
+
+}
+
+body {
+    background-color: rgb(112, 59, 165);
+}
+
+h1 {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+h2 {
+    text-align: center;
+    color: burlywood;
+    font-size: xx-large;
+    font-family: fantasy
+}
+
+nav {
+    text-align: end;
+    color: purple;
+    background-color: lavenderblush;
+}
+
+table {
+    color: antiquewhite;
+}
+
+p {
+    color: burlywood;    display: inline-block;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-style: italic;
 }
