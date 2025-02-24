@@ -1,3 +1,4 @@
+/* this is the about page css below */
 .pic {
     display: inline-block;
     height: 120px;
@@ -5,17 +6,17 @@
     margin-left: 290px;
 } 
 
-body {
+.bkgd {
     background-color: rgb(112, 59, 165);
 }
 
-h1 {
+.abouth1 {
     color: burlywood;
     text-align: center;
     font-family: fantasy
 }
 
-h2 {
+.abouth2 {
     color: burlywood;
     font-family: fantasy
 }
@@ -26,11 +27,19 @@ nav {
     background-color: lavenderblush;
 }
 
-table {
+.abouttb1 {
     color: antiquewhite;
 }
 
-p {
+.abouttb2 {
+    color: antiquewhite;
+}
+
+.creative {
+    color: burlywood;    display: inline-block;
+}
+
+.tech {
     color: burlywood;    display: inline-block;
 }
 
@@ -42,6 +51,8 @@ p {
 .name {
     margin-left: 10px;
 }
+
+/* this is the index/home page css below */
 .pic2 {
     height: 120px;
     border: dotted 12px darkgoldenrod;
@@ -54,13 +65,13 @@ body {
     background-color: rgb(112, 59, 165);
 }
 
-h1 {
+.indexh1 {
     color: burlywood;
     text-align: center;
     font-family: fantasy
 }
 
-h2 {
+.indexh2 {
     text-align: center;
     color: burlywood;
     font-size: xx-large;
@@ -82,6 +93,7 @@ table {
     color: burlywood;    display: inline-block;
 }
 
+.indexh3 {
 .proj {
     color: white;
     text-align: center;
@@ -95,6 +107,29 @@ table {
 
 .wrap {
     text-align: center;
+}
+.info {
+    padding: 100px;
+    margin: 100px;
+
+
+.contact {
+    color: burlywood;
+    text-align: center;
+    font-size: 40px; 
+    font-family: fantasy
+}
+
+.p4 {
+    background-color: rgb(130, 77, 179);
+    text-align: center;
+}
+
+.form {
+    color: burlywood;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif  
+
 }
 
 .pad {
