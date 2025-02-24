@@ -1,4 +1,4 @@
-# michelle-portfolio
+# michelle-portfolio // redoing this from scratch on another repo: https://github.com/ellescarps/michelle-portfolio2 ; code kept overriding and kept losing work after every save and merge
 
 Hiii! I am a student and this is a practice project. I've created a first draft of a portfolio site that opens to three different pages so far: home page, about me page, and my portfolio page itself. 
 
