@@ -6,17 +6,17 @@
     margin-left: 290px;
 }
 
-body {
+.bkgd {
     background-color: rgb(112, 59, 165);
 }
 
-h1 {
+.abouth1 {
     color: burlywood;
     text-align: center;
     font-family: fantasy
 }
 
-h2 {
+.abouth2 {
     color: burlywood;
     font-family: fantasy
 }
@@ -27,11 +27,19 @@ nav {
     background-color: lavenderblush;
 }
 
-table {
+.abouttb1 {
     color: antiquewhite;
 }
 
-p {
+.abouttb2 {
+    color: antiquewhite;
+}
+
+.creative {
+    color: burlywood;    display: inline-block;
+}
+
+.tech {
     color: burlywood;    display: inline-block;
 }
 
