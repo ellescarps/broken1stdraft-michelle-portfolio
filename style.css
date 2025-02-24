@@ -3,7 +3,7 @@
     height: 120px;
     border: dotted 12px darkgoldenrod;
     margin-left: 290px;
-}
+} 
 
 body {
     background-color: rgb(112, 59, 165);
@@ -77,6 +77,7 @@ table {
     color: antiquewhite;
 }
 
+/* this is the portfolio css page below */
 .p {
     color: burlywood;    display: inline-block;
 }
@@ -98,4 +99,16 @@ table {
 
 .pad {
     padding: 10px;
+} 
+
+.port {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+.port1 {
+    text-align: center;
+    color: burlywood;
+    font-size: xx-large;
+    font-family: fantasy
 }
