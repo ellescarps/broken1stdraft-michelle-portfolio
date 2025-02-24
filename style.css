@@ -87,6 +87,14 @@ h3 {
     font-style: italic;
 }
 
+.propics {
+    height: 100px;
+    width: 100px;
+}
+
+.wrap {
+    text-align: center;
+}
 .info {
     padding: 100px;
     margin: 100px;
