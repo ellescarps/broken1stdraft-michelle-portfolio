@@ -1,3 +1,4 @@
+/* this is the about page css below */
 .pic {
     display: inline-block;
     height: 120px;
@@ -49,4 +50,82 @@ nav {
 
 .name {
     margin-left: 10px;
+}
+
+/* this is the index/home page css below */
+.pic2 {
+    height: 120px;
+    border: dotted 12px darkgoldenrod;
+    margin-top: 10px;
+    margin-left: 1018px;
+
+}
+
+body {
+    background-color: rgb(112, 59, 165);
+}
+
+.indexh1 {
+    color: burlywood;
+    text-align: center;
+    font-family: fantasy
+}
+
+.indexh2 {
+    text-align: center;
+    color: burlywood;
+    font-size: xx-large;
+    font-family: fantasy
+}
+
+nav {
+    text-align: end;
+    color: purple;
+    background-color: lavenderblush;
+}
+
+table {
+    color: antiquewhite;
+}
+
+p {
+    color: burlywood;    display: inline-block;
+}
+
+.indexh3 {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.propics {
+    height: 100px;
+    width: 100px;
+}
+
+.wrap {
+    text-align: center;
+}
+.info {
+    padding: 100px;
+    margin: 100px;
+
+
+.contact {
+    color: burlywood;
+    text-align: center;
+    font-size: 40px; 
+    font-family: fantasy
+}
+
+.p4 {
+    background-color: rgb(130, 77, 179);
+    text-align: center;
+}
+
+.form {
+    color: burlywood;
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif  
+
 }
