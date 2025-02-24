@@ -77,11 +77,11 @@ table {
     color: antiquewhite;
 }
 
-p {
+.p {
     color: burlywood;    display: inline-block;
 }
 
-h3 {
+.proj {
     color: white;
     text-align: center;
     font-style: italic;
@@ -94,4 +94,8 @@ h3 {
 
 .wrap {
     text-align: center;
+}
+
+.pad {
+    padding: 10px;
 }
